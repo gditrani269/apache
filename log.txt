@@ -1,0 +1,307 @@
+commit 84929e9e0a01afc2d41de5d9fca432e093c69fee
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Tue Mar 5 18:19:09 2019 -0300
+
+    Add files via upload
+    
+    base main
+
+commit 6ab7f42361a7710e1b45525c71e5833add304c03
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Tue Mar 5 18:18:08 2019 -0300
+
+    Delete httpd.json
+
+commit 9adc2ec7460d6cb56a1fb0cfc3bffd20ed5b4837
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Tue Mar 5 18:17:55 2019 -0300
+
+    Delete README.md
+
+commit cc6c2ea53c817707e8fab0c2b4cb1b7316d94773
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Tue Mar 5 18:17:46 2019 -0300
+
+    Delete index.html
+
+commit 0bef9528f2034142021f9f76dfd3310dd31ff9a9
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Tue Mar 5 18:17:36 2019 -0300
+
+    Delete mymain.html
+
+commit 79bafcb3ef7f2f79a0219ca71fe369dfb4faabae
+Merge: 15e8ba5 917dfd1
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Sat Oct 13 16:51:58 2018 -0300
+
+    Merge branch 'master' of https://github.com/gditrani269/apache
+
+commit 15e8ba5c8c30f70c28bcc8b34f428179902b3d3c
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Sat Oct 13 16:41:40 2018 -0300
+
+    subida desde apache para probar el merge
+
+commit 917dfd1721b09820bbfa777d705f1be20feb838d
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Sat Oct 13 16:40:11 2018 -0300
+
+    primer subida previa al merge desde apache otro
+
+commit ab01db72c6947a3acf07e7006300b7b8fb2ffeed
+Merge: 17754e1 de8bb7e
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Sat Oct 13 16:35:19 2018 -0300
+
+    Merge branch 'master' of https://github.com/gditrani269/apache
+
+commit 17754e1d794b0eda3e8bc9f62bf5f773276f578f
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Sat Oct 13 16:31:12 2018 -0300
+
+    olo index.html
+
+commit de8bb7e1cf11d521e8dfb4318a34d479200b34d4
+Merge: 6a7a342 5e02efe
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Sat Oct 13 16:28:56 2018 -0300
+
+    Merge branch 'master' of https://github.com/gditrani269/apache
+
+commit 6a7a342cb5cd868137730eeae8cf3db7deb2ca68
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Sat Oct 13 16:26:51 2018 -0300
+
+    subo solo este archivo indicandolo a GIT con:
+    git add mymain.html
+    git commit mymain.html
+
+commit 5e02efe42ff51820987c89e193ebbdd322bf3dbc
+Merge: 53e1e54 1464ea3
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Sat Oct 13 16:21:36 2018 -0300
+
+    Merge branch 'master' of https://github.com/gditrani269/apache
+    merge en apache
+
+commit 53e1e54f7e2fb8152ca28dff5fb405c8034eacfa
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Sat Oct 13 16:18:23 2018 -0300
+
+    modifico desde apache
+
+commit 1464ea38c060b70c0ead16882ea9ff4f0cf30e8b
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Sat Oct 13 16:12:11 2018 -0300
+
+    modifico en apache otro
+
+commit aeb0a3521f7020bf8b84e5af52de84daa2a06c51
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Sat Oct 13 00:01:20 2018 -0300
+
+    grego mensaje y link a github
+
+commit 72602d6fcfa8e16cfee180f163c19e755f2da19e
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Fri Oct 12 23:58:18 2018 -0300
+
+    new index.hrml
+
+commit 8398cb7f95210d5fb2756c2035dddaa77a2a2091
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Sun Oct 7 18:00:37 2018 -0300
+
+    creacion de mi pagina principal
+
+commit c7954ba7020e718bdaf572696333913f4ba9ba44
+Author: gditrani269 <gditrani269@gmail.com>
+Date:   Mon Oct 1 23:59:13 2018 -0300
+
+    prueba de clonado de repositorio
+
+commit 0ac6da93a1f65fe9175cb1b7838cfca7b23d5fbe
+Merge: dc2fa54 ef8aaed
+Author: Honza Horak <hhorak@redhat.com>
+Date:   Fri Aug 3 13:08:12 2018 +0200
+
+    Merge pull request #15 from adambkaplan/sclorg-rename
+    
+    Rename github org to sclorg
+
+commit ef8aaed9708a41c4fc67b98ae8d067851232b500
+Author: Adam Kaplan <adam.kaplan@redhat.com>
+Date:   Tue Jul 24 12:59:23 2018 -0400
+
+    Rename github org to sclorg
+    
+    Addresses opehshift/origin#19998
+
+commit dc2fa54733a38f50c2a44f467068db6995a4d6e4
+Merge: fbcb728 4ef8d95
+Author: Ben Parees <bparees@users.noreply.github.com>
+Date:   Thu Dec 14 15:52:29 2017 -0500
+
+    Merge pull request #11 from jim-minter/duplicate-keys
+    
+    remove duplicate key in json file
+
+commit 4ef8d9594e610bcf2365df627edef185f252c028
+Author: Jim Minter <jminter@redhat.com>
+Date:   Thu Dec 14 14:49:37 2017 -0600
+
+    remove duplicate key in json file
+
+commit fbcb728ecf05ee43ce2aad9646afcb5e22add154
+Merge: 1b3a964 6fb196c
+Author: Ben Parees <bparees@users.noreply.github.com>
+Date:   Thu Nov 9 11:05:53 2017 -0500
+
+    Merge pull request #10 from gabemontero/app-label
+    
+    add template 'app' label
+
+commit 6fb196cca1e2a87ec43c4627007297c81d46d675
+Author: gabemontero <gmontero@redhat.com>
+Date:   Thu Nov 9 11:04:10 2017 -0500
+
+    add template 'app' label
+
+commit 1b3a96406c9bece63075e2c3738185a76aacbe3c
+Merge: 4010c2d 3c26297
+Author: Ben Parees <bparees@users.noreply.github.com>
+Date:   Tue Nov 7 21:12:42 2017 +0100
+
+    Merge pull request #9 from jim-minter/issue16726
+    
+    remove expose annotations from quickstarts and add bindable: false
+
+commit 3c2629779e2d7cbe9652db9223f5fb8bfc060e8c
+Author: Jim Minter <jminter@redhat.com>
+Date:   Tue Nov 7 13:03:41 2017 -0600
+
+    remove expose annotations from quickstarts and add bindable: false
+
+commit 4010c2dfd8d7ec8f8d012caa0be2bd3124d043e2
+Merge: d168e26 25745fd
+Author: Ben Parees <bparees@users.noreply.github.com>
+Date:   Thu Oct 19 14:56:25 2017 +0200
+
+    Merge pull request #8 from bparees/annotations
+    
+    remove template prefix from tsb annotations
+
+commit 25745fd2f8da120c6a63ff6896a26854791da2e3
+Author: Ben Parees <bparees@redhat.com>
+Date:   Thu Oct 19 14:42:29 2017 +0200
+
+    remove template prefix from tsb annotations
+
+commit d168e26b8d07fa81786125ebc8d084980caa8e53
+Merge: 5ce83b9 6ec36b6
+Author: Ben Parees <bparees@users.noreply.github.com>
+Date:   Thu Sep 7 10:00:08 2017 -0400
+
+    Merge pull request #6 from luciddreamz/master
+    
+    Updates name to Apache HTTP Server
+
+commit 6ec36b67d9c229ae8fd6a03ef1608e01120ad26c
+Author: luciddreamz <jacoblucky@gmail.com>
+Date:   Thu Sep 7 09:57:04 2017 -0400
+
+    Updates name to Apache HTTP Server
+
+commit 5ce83b9e4c432382e801845dfa28c97fd5e79a27
+Merge: 5909242 dc34df7
+Author: Ben Parees <bparees@users.noreply.github.com>
+Date:   Wed Aug 16 14:18:50 2017 -0400
+
+    Merge pull request #5 from jim-minter/trello135-completion-detection
+    
+    add template completion detection
+
+commit dc34df79daa4eaef3741292eb5d0167d17aa742a
+Author: Jim Minter <jminter@redhat.com>
+Date:   Fri Aug 11 11:38:32 2017 -0500
+
+    add template completion detection
+
+commit 59092423dac9acbf886362817d5bcdc629cb7bcc
+Merge: 8dfaaff 0153eea
+Author: Ben Parees <bparees@users.noreply.github.com>
+Date:   Sun Jun 25 23:39:55 2017 -0400
+
+    Merge pull request #4 from coreydaley/bugzilla_1365656_github_webhook_description_update
+    
+    Updating GITHUB_WEBHOOK_SECRET description
+
+commit 0153eeaee0a94118921fe7da6ca00a94a970e4bd
+Author: Corey Daley <cdaley@redhat.com>
+Date:   Sun Jun 25 23:36:32 2017 -0400
+
+    Updating GITHUB_WEBHOOK_SECRET description
+
+commit 8dfaaffbd30d03da90aacd94fb0c066f8e4acb8e
+Merge: 955e479 34512f6
+Author: Ben Parees <bparees@users.noreply.github.com>
+Date:   Thu Jun 15 09:01:51 2017 -0400
+
+    Merge pull request #3 from jim-minter/trello133-tsb-bind
+    
+    update templates to use template.openshift.io/expose-uri
+
+commit 34512f6d4c01855bd1d2440e405b9db95d2c463d
+Author: Jim Minter <jminter@redhat.com>
+Date:   Thu Jun 15 09:28:34 2017 +0100
+
+    update templates to use template.openshift.io/expose-uri
+
+commit 955e47933b0a83fdb23c45cf1296b72b8a792709
+Merge: f6d1ce5 5a2a5ad
+Author: Ben Parees <bparees@users.noreply.github.com>
+Date:   Wed Jun 14 19:11:12 2017 -0400
+
+    Merge pull request #2 from bparees/example
+    
+    add template
+
+commit 5a2a5ad55a235e70cc34de9108eb90e472c06dc7
+Author: Ben Parees <bparees@redhat.com>
+Date:   Wed Jun 14 18:17:49 2017 -0400
+
+    Add sample template
+
+commit f6d1ce580ca1eb1884cd91e43637fa6e62503eba
+Author: Ben Parees <bparees@users.noreply.github.com>
+Date:   Wed Jun 14 17:50:44 2017 -0400
+
+    fix link tagging
+
+commit b9c7e9cd3b45d881fc5aca6d36e9b2a37876b356
+Author: Ben Parees <bparees@users.noreply.github.com>
+Date:   Wed Jun 14 17:50:00 2017 -0400
+
+    clean up instructions
+
+commit fc4a2f2159c07d2f103c8ca6f4a86a499538dc57
+Merge: 87ec7df cfb4e62
+Author: Ben Parees <bparees@users.noreply.github.com>
+Date:   Wed Jun 14 17:44:07 2017 -0400
+
+    Merge pull request #1 from bparees/example
+    
+    initial sample app
+
+commit cfb4e62ecc010ce7fc812683a00762b941e695e2
+Author: Ben Parees <bparees@redhat.com>
+Date:   Wed Jun 14 17:43:21 2017 -0400
+
+    initial sample app
+
+commit 87ec7df383dc5a0dda41568a2d654a600a5a5818
+Author: Ben Parees <bparees@users.noreply.github.com>
+Date:   Wed Jun 14 17:21:33 2017 -0400
+
+    Initial commit
